@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+.streamlit/secrets.toml
+
+# Keep local complaint and maintenance records out of the deployed source repository.
+data/*.db
